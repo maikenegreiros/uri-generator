@@ -1,8 +1,8 @@
-#ts-uri-generator
+# ts-uri-generator
 
 A simple uri generator
 
-#Example
+# Example
 
 ```
 <div id="app">
